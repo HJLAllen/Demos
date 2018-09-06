@@ -102,6 +102,42 @@
 
 [《Android NDK开发（二） 使用ndk-build构建工具进行NDK开发》](http://blog.csdn.net/kong_gu_you_lan/article/details/79146817)
 
+## 15. 将编译好的so库提供给第三方使用 [源码](https://github.com/alidili/Demos/tree/master/NDKLibraryDemo)
+
+[![](https://img.shields.io/badge/APK%20download-1.99M-green.svg)](https://github.com/alidili/Demos/raw/master/NDKLibraryDemo/NDKLibraryDemo.apk)
+
+[《Android NDK开发（五） 开发中遇到的问题汇总》](https://blog.csdn.net/kong_gu_you_lan/article/details/80359547)
+
+## 16. Design Support Library使用详解 [源码](https://github.com/alidili/DesignSupportDemo)
+
+[![](https://img.shields.io/badge/APK%20download-2.32M-green.svg)](https://github.com/alidili/DesignSupportDemo/raw/master/DesignSupportDemo.apk)
+
+[《Snackbar提示框》](http://blog.csdn.net/kong_gu_you_lan/article/details/51944248)
+
+[《TabLayout选项卡》](http://blog.csdn.net/kong_gu_you_lan/article/details/51954327)
+
+[《EditText辅助控件——TextInputLayout》](http://blog.csdn.net/kong_gu_you_lan/article/details/52057050)
+
+[《FrameLayout布局的增强版—CoordinatorLayout》](http://blog.csdn.net/kong_gu_you_lan/article/details/51956496)
+
+[《可折叠的Toolbar——CollapsingToolbarLayout》](http://blog.csdn.net/kong_gu_you_lan/article/details/51958313)
+
+[《Android Design Support Library v28 新增组件详解》](https://blog.csdn.net/kong_gu_you_lan/article/details/80755159)
+
+## 17. 蓝牙BLE开发详解 [源码](https://github.com/alidili/Demos/tree/master/BleDemo)
+
+[![](https://img.shields.io/badge/APK%20download-1.73M-green.svg)](https://github.com/alidili/Demos/raw/master/BleDemo/BleDemo.apk)
+
+[《Android 蓝牙BLE开发详解》](https://blog.csdn.net/kong_gu_you_lan/article/details/81009800)
+
+## 18. 滴滴插件化方案VirtualApk [源码](https://github.com/alidili/Demos/tree/master/VirtualAPKDemo) 
+
+[![](https://img.shields.io/badge/Host%20APK%20download-1.26MB-green.svg)](https://github.com/alidili/Demos/raw/master/VirtualAPKDemo/host.apk)
+
+[![](https://img.shields.io/badge/Plugin%20APK%20download-5.25KB-blue.svg)](https://github.com/alidili/Demos/raw/master/VirtualAPKDemo/plugin.apk)
+
+[《滴滴插件化方案 VirtualApk 完全解析（一） 初识基本用法》](https://blog.csdn.net/kong_gu_you_lan/article/details/81324117)
+
 ## License
 
 ```
